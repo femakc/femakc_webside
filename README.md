@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
-## My name is Max
+## My name is Max, I am studying to be a python developer backend
 
-![python_icon](512x512bb.jpg)
+![python_icon](code1.jpg)
 
 This place for any discriptions. About my.
 
