@@ -2,12 +2,10 @@
 
 ![python_icon](code1.jpg)
 
-This place for any discriptions. About my.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Я учусь на [Yandex-Practicum](https://practicum.yandex.ru) по направлению Python-Developer.
 
 ```markdown
-THis place for any CODE </ > 
+print('Hellow world!')
 ```
