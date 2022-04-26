@@ -2,8 +2,6 @@
 
 ![python_icon](code1.jpg)
 
-<div class="text-white bg-black mb-2">
-  .text-white on .bg-blue
 
 Я учусь на [Yandex-Practicum](https://practicum.yandex.ru) по направлению Python-Developer.
 
